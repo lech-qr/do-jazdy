@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container">
         <a class="navbar-brand" href="/">
-            <img src="/img/logo.svg" alt="Do-Jazdy - City Route Sharingde">
+            <img src="img/logo.svg" alt="Do-Jazdy - City Route Sharingde">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <div id="icon-menu">

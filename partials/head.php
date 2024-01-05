@@ -23,15 +23,15 @@
         <link rel="stylesheet" href="style/css/style.css">  
         <link rel="stylesheet" href="style/css/responsive.css">        
         
-        <script src="/js/jquery-3.4.1.min.js"></script>
-        <script src="/js/bootstrap.min.js"></script>     
-        <script src="/js/moment-with-locales.min.js"></script>   
-        <script src="/js/moment-timezone-with-data-2012-2022.min.js"></script>   
-        <script src="/js/tempusdominus-bootstrap-4.min.js"></script>       
-        <script src="/js/scripts.min.js"></script>
-        <script src="/js/aos.min.js"></script>
-        <script src="/js/wow.min.js"></script>
-        <script src="/js/popper.min.js"></script>        
+        <script src="js/jquery-3.4.1.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>     
+        <script src="js/moment-with-locales.min.js"></script>   
+        <script src="js/moment-timezone-with-data-2012-2022.min.js"></script>   
+        <script src="js/tempusdominus-bootstrap-4.min.js"></script>       
+        <script src="js/scripts.min.js"></script>
+        <script src="js/aos.min.js"></script>
+        <script src="js/wow.min.js"></script>
+        <script src="js/popper.min.js"></script>        
 
         <title><?php echo $title; ?></title>
     </head>

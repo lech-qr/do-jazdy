@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="d-none d-lg-block col-xl-5 col-lg-4 signet aos-init" data-aos="fade-up-right" data-aos-delay="0" data-aos-once="true">
-                <img src="/img/main-page/signet.svg" alt="Do-Jazdy - Logo sygnet">
+                <img src="img/main-page/signet.svg" alt="Do-Jazdy - Logo sygnet">
             </div>
             <div class="col-xl-7 col-lg-8 col-md-12">                       
                 <h1><span>Aktualności</span></h1>

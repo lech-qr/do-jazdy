@@ -11,11 +11,11 @@
                         <div class="row flex-wrap">
                             <div class="col-lg-3">                       
                                 <div class="nav flex-column nav-pills" id="v-pills-tab" role="tablist" aria-orientation="vertical">
-                                    <a class="nav-link active" id="v-pills-notifications-tab" data-toggle="pill" href="#v-pills-notifications" role="tab" aria-controls="v-pills-notifications" aria-selected="true">Powiadomienia<img src="/img/profile/notifications.svg" alt="Powiadomienia" /></a>
-                                    <a class="nav-link" id="v-pills-route-tab" data-toggle="pill" href="#v-pills-route" role="tab" aria-controls="v-pills-route" aria-selected="false">Moje trasy<img src="/img/profile/route.svg" alt="Moje trasy" /></a>
-                                    <a class="nav-link" id="v-pills-calendar-tab" data-toggle="pill" href="#v-pills-calendar" role="tab" aria-controls="v-pills-calendar" aria-selected="false">Kalendarz<img src="/img/profile/calendar.svg" alt="Kalendarz" /></a>
-                                    <a class="nav-link" id="v-pills-group-tab" data-toggle="pill" href="#v-pills-group" role="tab" aria-controls="v-pills-group" aria-selected="false">Moja grupa<img src="/img/profile/group.svg" alt="Moja grupa" /></a>
-                                    <a class="nav-link" id="v-pills-account-tab" data-toggle="pill" href="#v-pills-account" role="tab" aria-controls="v-pills-account" aria-selected="false">Moje konto<img src="/img/profile/account.svg" alt="Moje konto" /></a>
+                                    <a class="nav-link active" id="v-pills-notifications-tab" data-toggle="pill" href="#v-pills-notifications" role="tab" aria-controls="v-pills-notifications" aria-selected="true">Powiadomienia<img src="img/profile/notifications.svg" alt="Powiadomienia" /></a>
+                                    <a class="nav-link" id="v-pills-route-tab" data-toggle="pill" href="#v-pills-route" role="tab" aria-controls="v-pills-route" aria-selected="false">Moje trasy<img src="img/profile/route.svg" alt="Moje trasy" /></a>
+                                    <a class="nav-link" id="v-pills-calendar-tab" data-toggle="pill" href="#v-pills-calendar" role="tab" aria-controls="v-pills-calendar" aria-selected="false">Kalendarz<img src="img/profile/calendar.svg" alt="Kalendarz" /></a>
+                                    <a class="nav-link" id="v-pills-group-tab" data-toggle="pill" href="#v-pills-group" role="tab" aria-controls="v-pills-group" aria-selected="false">Moja grupa<img src="img/profile/group.svg" alt="Moja grupa" /></a>
+                                    <a class="nav-link" id="v-pills-account-tab" data-toggle="pill" href="#v-pills-account" role="tab" aria-controls="v-pills-account" aria-selected="false">Moje konto<img src="img/profile/account.svg" alt="Moje konto" /></a>
                                 </div>
                             </div>                
                             <div class="col-lg-9">                       

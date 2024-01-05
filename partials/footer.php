@@ -1,4 +1,4 @@
-<a href="#top" class="to_top"><img src="/img/arrow-circle-up-solid.svg"></a>
+<a href="#top" class="to_top"><img src="img/arrow-circle-up-solid.svg"></a>
 
         <footer>
             <div class="container">

@@ -35,9 +35,9 @@
             </div>
             <div class="col-lg-6">
                 <ul class="layers">
-                    <li data-aos="fade-up" data-aos-delay="400" data-aos-once="true"><img src="/img/login/login-left.png" alt="Login & Register" /></li>
-                    <li data-aos="fade-up-left" data-aos-once="true"><img src="/img/login/login-right.png" alt="Login & Register" /></li>
-                    <li data-aos="fade-down" data-aos-delay="700" data-aos-once="true"><img class="wow pulse" data-wow-delay="1400ms" data-wow-iteration="infinite" data-wow-duration="2s" src="/img/login/login-center.svg" alt="Login & Register" /></li>                    
+                    <li data-aos="fade-up" data-aos-delay="400" data-aos-once="true"><img src="img/login/login-left.png" alt="Login & Register" /></li>
+                    <li data-aos="fade-up-left" data-aos-once="true"><img src="img/login/login-right.png" alt="Login & Register" /></li>
+                    <li data-aos="fade-down" data-aos-delay="700" data-aos-once="true"><img class="wow pulse" data-wow-delay="1400ms" data-wow-iteration="infinite" data-wow-duration="2s" src="img/login/login-center.svg" alt="Login & Register" /></li>                    
                 </ul>                 
             </div>
         </div>

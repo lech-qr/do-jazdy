@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row">
             <div class="d-none d-lg-block col-xl-5 col-lg-4 signet aos-init" data-aos="fade-up-right" data-aos-delay="0" data-aos-once="true">
-                <img src="/img/main-page/signet.svg" alt="Do-Jazdy - Logo sygnet">
+                <img src="img/main-page/signet.svg" alt="Do-Jazdy - Logo sygnet">
             </div>
             <div class="col-xl-7 col-lg-8 col-md-12 txt">                       
                 <h1>Chcesz podróżować do pracy <span>wygodniej, szybciej, taniej?</span></h1>
@@ -13,8 +13,8 @@
                 <div class="row main-form aos-init" data-aos="fade-up-left" data-aos-delay="0" data-aos-once="true">
                     <div class="offset-lg-1 col-3 form-img fade-out">
                         <picture>
-                            <source srcset="/img/main-page/main-form.webp" type="image/webp">
-                            <img src="/img/main-page/main-form.jpg" alt="Do-Jazdy - Strona główna">
+                            <source srcset="img/main-page/main-form.webp" type="image/webp">
+                            <img src="img/main-page/main-form.jpg" alt="Do-Jazdy - Strona główna">
                         </picture> 
                     </div>
                     <div class="col-sm-9 col-md-8 form-content">

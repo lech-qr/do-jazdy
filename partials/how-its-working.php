@@ -3,10 +3,10 @@
         <div class="row">
             <div class="col-lg-6 col-sm-12">
                 <ul class="layers">
-                    <li data-aos="zoom-in-up" data-aos-once="true"><img src="/img/how-its-work/how-its-work-01.png" alt="How it's work - board 1" /></li>
-                    <li data-aos="fade-right" data-aos-delay="400" data-aos-once="true"><img src="/img/how-its-work/how-its-work-02.png" alt="How it's work - board 1" /></li>
-                    <li data-aos="fade-down" data-aos-delay="700" data-aos-once="true"><img class="wow pulse" data-wow-delay="1400ms" data-wow-iteration="infinite" data-wow-duration="2s" src="/img/how-its-work/how-its-work-03.svg" alt="How it's work - board 1" /></li>
-                    <li data-aos="fade-left" data-aos-delay="400" data-aos-once="true"><img src="/img/how-its-work/how-its-work-04.png" alt="How it's work - board 1" /></li>
+                    <li data-aos="zoom-in-up" data-aos-once="true"><img src="img/how-its-work/how-its-work-01.png" alt="How it's work - board 1" /></li>
+                    <li data-aos="fade-right" data-aos-delay="400" data-aos-once="true"><img src="img/how-its-work/how-its-work-02.png" alt="How it's work - board 1" /></li>
+                    <li data-aos="fade-down" data-aos-delay="700" data-aos-once="true"><img class="wow pulse" data-wow-delay="1400ms" data-wow-iteration="infinite" data-wow-duration="2s" src="img/how-its-work/how-its-work-03.svg" alt="How it's work - board 1" /></li>
+                    <li data-aos="fade-left" data-aos-delay="400" data-aos-once="true"><img src="img/how-its-work/how-its-work-04.png" alt="How it's work - board 1" /></li>
                 </ul>
             </div>
             <div class="col-lg-6 col-sm-12">
