@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Warstwa_1"
+   x="0px"
+   y="0px"
+   width="52"
+   height="42"
+   viewBox="0 0 52 42"
+   enable-background="new 0 0 42 168"
+   xml:space="preserve"
+   sodipodi:docname="modify.svg"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1879"
+   inkscape:window-height="1016"
+   id="namedview19"
+   showgrid="false"
+   inkscape:zoom="1.4047619"
+   inkscape:cx="-261.25424"
+   inkscape:cy="84"
+   inkscape:window-x="41"
+   inkscape:window-y="27"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Warstwa_1" />
+
+<g
+   id="g5093"
+   transform="matrix(0.16979644,0.16961398,-0.16961398,0.16979644,13.782314,26.096089)"
+   style="fill:none;stroke:#ffffff;stroke-opacity:1"><g
+     transform="translate(0,-126)"
+     id="g14"
+     style="fill:none;stroke:#ffffff;stroke-opacity:1">
+	<defs
+   id="defs3">
+		<rect
+   y="0"
+   x="0"
+   height="168"
+   width="42"
+   id="SVGID_1_" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   height="100%"
+   width="100%"
+   y="0"
+   x="0"
+   style="overflow:visible"
+   id="use5"
+   overflow="visible"
+   xlink:href="#SVGID_1_" />
+	</clipPath>
+	
+		<rect
+   style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+   id="rect8"
+   height="18"
+   width="36"
+   stroke-miterlimit="10"
+   clip-path="url(#SVGID_2_)"
+   y="3"
+   x="3" />
+	
+		<polygon
+   style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+   id="polygon10"
+   points="21,165 3,129 39,129 "
+   stroke-miterlimit="10"
+   clip-path="url(#SVGID_2_)" />
+	
+		<rect
+   style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+   id="rect12"
+   height="108"
+   width="36"
+   stroke-miterlimit="10"
+   clip-path="url(#SVGID_2_)"
+   y="21"
+   x="3" />
+</g><line
+     style="fill:none;stroke:#ffffff;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1"
+     id="line16"
+     y2="3"
+     x2="12"
+     y1="-105"
+     x1="12"
+     stroke-miterlimit="10" /></g>
+</svg>

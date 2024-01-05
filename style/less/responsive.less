@@ -1,0 +1,127 @@
+@media (min-width: 1681px) {
+    html {
+        font-size: 16px;
+        .container {
+            max-width: 1680px;
+        }        
+    }
+}
+@media (max-width: 1680px) {
+    html {
+        font-size: 12px;
+    }
+    body {
+        nav.navbar {
+            .navbar-brand {
+                width: 200px;
+                img {
+                    width: 100%;
+                }
+            }
+            #navbarNav {
+                ul.navbar-nav {
+                    li {
+                        a {
+                            font-size: 1.1rem;
+                        }
+                    }
+                }
+            }
+        }
+        main {
+            section {
+                &#main-page {
+                    .container{
+                        .txt {
+                            .main-form .form-img img {
+                                max-height: 20rem;
+                            }
+                        }                   
+                    } 
+                }
+            }
+        } 
+    }
+}
+@media (max-width: 1200px)  {
+    html {
+        font-size: 10px;
+    }    
+    body {
+        nav.navbar {
+            .navbar-brand {
+                width: 200px;
+                img {
+                    width: 100%;
+                }
+            }
+            #navbarNav {
+                ul.navbar-nav {
+                    li {
+                        a {
+                            font-size: 1rem;
+                        }
+                    }
+                }
+                ul.user-nav {
+                    margin: 1rem 0 0 0;                    
+                }
+            }
+            &.fixed {
+                #navbarNav ul.user-nav {
+                    margin: 5rem 0 0 0;                    
+                }                
+            }
+        }
+    }
+}
+@media (max-width: 992px) {
+    html {
+        font-size: 10px;
+    }
+    body {
+        nav.navbar {
+            .navbar-toggler {
+                border: 0 solid #000;
+                #icon-menu {
+                    display: block;
+                }
+                &:focus {
+                    outline: none;
+                }
+            }
+            .navbar-collapse#navbarNav {
+                position: relative;
+                background: rgba(255,255,255,.95);
+                ul.navbar-nav {
+                    padding-bottom: 5rem;
+                    li {
+                        margin: 0 3%;
+                        a {
+                            height: 4rem;
+                            line-height: 4rem;
+                            font-size: 1.2rem;
+                            color: #21364b;
+                        }
+                    }
+                }
+                ul.user-nav {
+                    top: auto;
+                    bottom: 1rem;
+                }
+            }
+        }        
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 8px;
+    } 
+}
+@media (max-width: 576px) {
+
+}
+
+
+
